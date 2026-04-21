@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>通勤日报</title>
+    <description>AI 精选每日中文新闻播客，适合通勤收听</description>
+    <link>https://cabbagecharon-spec.github.io/podcast-feed</link>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 22 Apr 2026 01:17:09 +0800</lastBuildDate>
+    <itunes:author>通勤日报</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>AI 精选每日中文新闻播客，适合通勤收听</itunes:summary>
+    <itunes:category text="News" />
+    <item>
+      <title>2026-04-22 每日新闻</title>
+      <description>第 2026-04-22 期，共 91 条新闻</description>
+      <pubDate>Wed, 22 Apr 2026 01:17:09 +0800</pubDate>
+      <guid isPermaLink="false">2026-04-22</guid>
+      <enclosure url="https://cabbagecharon-spec.github.io/podcast-feed/audio/2026-04-22.mp3" length="10708158" type="audio/mpeg" />
+      <itunes:duration>00:10:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
