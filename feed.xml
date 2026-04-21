@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>通勤日报</title>
     <description>AI 精选每日中文新闻播客，适合通勤收听</description>
     <link>https://charon.github.io/podcast-feed</link>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 22 Apr 2026 00:50:30 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 16:58:31 -0000</lastBuildDate>
     <itunes:author>通勤日报</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:summary>AI 精选每日中文新闻播客，适合通勤收听</itunes:summary>
